@@ -1,0 +1,14 @@
+{
+  "name": "qaautomationframework",
+  "version": "1.0.0",
+  "description": "QA automation framework in selenium and javascript using nightwatch framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.16"
+  }
+}

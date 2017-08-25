@@ -1,0 +1,79 @@
+11:18:03.978 INFO - Launching a standalone Selenium Server
+11:18:04.009 INFO - Java: Oracle Corporation 25.121-b13
+11:18:04.009 INFO - OS: Mac OS X 10.11.5 x86_64
+11:18:04.020 INFO - v2.53.0, with Core v2.53.0. Built from revision 35ae25b
+11:18:04.084 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+11:18:04.085 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+11:18:04.085 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+11:18:04.085 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+11:18:04.088 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+11:18:04.089 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+11:18:04.151 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+11:18:04.152 INFO - Selenium Server is up and running
+11:18:04.429 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Scratchpad / Clicktest, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]])
+11:18:04.439 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Scratchpad / Clicktest, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]
+Starting ChromeDriver 2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6) on port 41436
+Only local connections are allowed.
+11:18:06.175 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Scratchpad / Clicktest, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]]
+11:18:06.189 INFO - Executing: [get: https://clickclickclick.click])
+11:18:09.115 INFO - Done: [get: https://clickclickclick.click]
+11:18:09.129 INFO - Executing: [find elements: By.cssSelector: body])
+11:18:09.176 INFO - Done: [find elements: By.cssSelector: body]
+11:18:09.200 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body]])
+11:18:09.222 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body]]
+11:18:09.234 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:09.256 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:09.261 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:09.373 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:14.383 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:14.391 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:14.394 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:14.424 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:14.428 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:14.437 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:14.441 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:14.471 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:19.479 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:19.492 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:19.497 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:19.535 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:24.547 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:24.557 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:24.562 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:24.605 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.616 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.623 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.628 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.655 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.668 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.680 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.685 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.718 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.723 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.734 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.739 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.766 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.771 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.779 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.782 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.817 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.822 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.833 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.838 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.890 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.897 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.908 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.913 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:29.958 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:29.962 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:29.972 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:29.976 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:30.013 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:30.019 INFO - Executing: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a])
+11:18:30.029 INFO - Done: [find element: By.cssSelector: body > main > div > div:nth-child(1) > a]
+11:18:30.033 INFO - Executing: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]])
+11:18:30.068 INFO - Done: [click: 1 [[ChromeDriver: chrome on MAC (026d6023b11927a1328acfc98b1f141c)] -> css selector: body > main > div > div:nth-child(1) > a]]
+11:18:35.085 INFO - Executing: [delete session: 81f487a6-f9d6-49ca-b69e-c3b8e6e730ef])
+11:18:35.273 INFO - Done: [delete session: 81f487a6-f9d6-49ca-b69e-c3b8e6e730ef]
